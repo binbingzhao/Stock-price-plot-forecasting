@@ -1,2 +1,2 @@
 # Stock-price-plot-forecasting
-Time series
+S&P 500 Time series
